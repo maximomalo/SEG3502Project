@@ -1,4 +1,3 @@
-﻿# language: fr
 Fonctionnalité: Ajout d'une certification d'organisateur
 
   Scénario: Ajouter une certification valide
