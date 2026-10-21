@@ -7,8 +7,8 @@
 **Professeur :** Kalonji Kalala
 
 **Groupe 23**
-- Nicola Baker – 300360908
-- Maxime Malouf – 300238380
+- Nicola Baker - 300360908
+- Maxime Malouf - 300238380
 
 ## Description du projet
 
