@@ -26,7 +26,7 @@ Nous avons identifié les hypothèses, les sous-domaines et les cas d'utilisatio
 
 ## Contenu du projet
 
-Le livrable comprend :
+Le livrable comprend:
 
 - Le rapport du livrable 1 avec les hypothèses, le diagramme de contexte et les cas d'utilisation.
 - Le modèle du domaine en Kotlin.
